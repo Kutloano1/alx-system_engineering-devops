@@ -1,1 +1,1 @@
-alias project
+shell variables expansion
